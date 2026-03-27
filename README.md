@@ -14,7 +14,7 @@ Firmware for: [Urchin Keyboard](https://github.com/duckyb/urchin)
 │  Q    W    E    R    T      │ │      Y    U    I    O    P  │
 │  A    S    D    F    G      │ │      H    J    K    L    '  │
 │  Z    X    C    V    B      │ │      N    M    ,    .  CAPS │
-╰────────────╮  HYP  SPC/SYM  │ │  NUM  MIR  ╭────────────────╯
+╰────────────╮  HYP  SPC/SYM  │ │  NUM  SPC/MIR  ╭────────────────╯
              ╰────────────────╯ ╰────────────╯
 ```
 Homerow mods (tap = letter, hold = modifier):
@@ -45,8 +45,8 @@ Homerow mods (tap = letter, hold = modifier):
 ```
 ╭─────────────────────────────╮ ╭─────────────────────────────╮
 │ H-A  H-G  H-S  H-X  H-F     │ │      ▽    ▽    ▽    ▽    ▽  │
-│ H-W  H-C  H-D   ▽    ▽      │ │      ▽    ▽    ▽    ▽    ▽  │
-│ CLR  BT0  BT1  BT2  BT3     │ │      ▽    ▽    ▽    ▽    ▽  │
+│ H-W  H-C  H-D  H-M   ▽      │ │      ▽    ▽    ▽    ▽    ▽  │
+│  ▽   BT0  BT1  BT2  BT3     │ │    CLR    ▽    ▽    ▽    ▽  │
 ╰────────────╮   ▽    BOOT    │ │ BOOT   ▽   ╭────────────────╯
              ╰────────────────╯ ╰────────────╯
 ```
